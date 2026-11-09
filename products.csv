@@ -1,0 +1,21 @@
+product_id,product_name,category,list_price
+P001,Wireless Mouse,Accessories,25.9
+P002,Mechanical Keyboard,Accessories,89.0
+P003,USB-C Hub,Accessories,59.5
+P004,Laptop Stand,Accessories,42.0
+P005,27-inch Monitor,Electronics,699.0
+P006,External SSD 1TB,Electronics,389.0
+P007,Wireless Headphones,Electronics,249.0
+P008,Webcam HD,Electronics,129.0
+P009,Office Chair,Furniture,499.0
+P010,Standing Desk,Furniture,1250.0
+P011,Desk Lamp,Furniture,79.0
+P012,Notebook Set,Stationery,12.5
+P013,Ballpoint Pens,Stationery,8.9
+P014,A4 Paper Pack,Stationery,18.0
+P015,Whiteboard Markers,Stationery,15.5
+P016,Water Bottle,Lifestyle,22.0
+P017,Backpack,Lifestyle,119.0
+P018,Travel Mug,Lifestyle,35.0
+P019,Bluetooth Speaker,Electronics,179.0
+P020,Laptop Sleeve,Accessories,49.0
